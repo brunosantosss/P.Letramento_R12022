@@ -19,5 +19,8 @@ Projeto com propósito ajudar pessoas com deficiência visual e pessoas analfabe
 
 Aplicação desenvolvida com a Linguagem Python e ferramentas como opencv, pyttsx3 e tesseract.
 
-> Documentação
-# EM BREVE.
+> Requirimentos
+
+* opencv: https://docs.opencv.org/4.x/d5/de5/tutorial_py_setup_in_windows.html
+* tesseract-ocr: https://github.com/tesseract-ocr/tesseract
+* pyttsx3: https://github.com/nateshmbhat/pyttsx3
