@@ -15,8 +15,6 @@
 
 > Informações
 
-Projeto com propósito ajudar pessoas com deficiência visual e pessoas analfabetas.
-
 Aplicação desenvolvida com a Linguagem Python e ferramentas como opencv, pyttsx3 e tesseract.
 
 > Requirimentos
