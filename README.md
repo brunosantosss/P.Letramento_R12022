@@ -20,4 +20,4 @@ Projeto com propósito ajudar pessoas com deficiência visual e pessoas analfabe
 Aplicação desenvolvida com a Linguagem Python e ferramentas como opencv, pyttsx3 e tesseract.
 
 > Documentação
-* Em breve.
+# EM BREVE.
