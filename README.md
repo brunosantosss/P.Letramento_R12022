@@ -12,3 +12,12 @@
 - Angelô Mikaell
 - Thales
 - Francisco Geansigne
+
+> Informações
+
+Projeto com propósito ajudar pessoas com deficiencia visual e pessoas analfabetas.
+
+Aplicação desenvolvida com a Linguagem Python e ferramentas como opencv, pyttsx3 e tesseract.
+
+> Documentação
+* Em breve.
