@@ -8,7 +8,7 @@
 
 - Bruno Santos
 - Eduardo Epifane
-- Erick Castro
+- Erick de Castro
 - Ângelo Mikaell
 - Thales
 - Francisco Geansigne
