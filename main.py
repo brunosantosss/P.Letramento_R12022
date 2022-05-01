@@ -3,7 +3,7 @@ import pyttsx3
 import cv2
 
 # Lendo a imagem
-img = cv2.imread("liquidificador.jpeg")
+img = cv2.imread("elo.jpeg")
 
 # Iniciando o motor de reproducao da voz
 voice = pyttsx3.init()
