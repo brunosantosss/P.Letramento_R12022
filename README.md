@@ -10,7 +10,7 @@
 - Eduardo Epifane
 - Erick de Castro
 - Ângelo Mikaell
-- Thales
+- Thales Gabriel
 - Francisco Geansigne
 
 > Informações
