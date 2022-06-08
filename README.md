@@ -19,6 +19,7 @@ Aplicação desenvolvida com a Linguagem Python e ferramentas como opencv, pytts
 
 > Requerimentos
 
+* Tkinter: https://docs.python.org/3/library/tkinter.html
 * opencv: https://docs.opencv.org/4.x/d5/de5/tutorial_py_setup_in_windows.html
 * tesseract-ocr: https://github.com/tesseract-ocr/tesseract
 * pyttsx3: https://github.com/nateshmbhat/pyttsx3
